@@ -1,9 +1,12 @@
 package main;
 
+import main.ui.MainWindow;
+
 public class Controller {
 	
 	public static void main(String[] args) {
-		System.out.println("Hello, World");
+		MainWindow window = new MainWindow(1500, 800);
+		window.show();
 	}
 
 }
