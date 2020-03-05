@@ -1,4 +1,4 @@
-package main.ui;
+package main.ui.calendar;
 
 import java.awt.Color;
 import java.awt.Cursor;
